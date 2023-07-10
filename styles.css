@@ -1,0 +1,17 @@
+div.header{
+    background: white;
+    width: 350px;
+    margin:auto;
+    }
+div.post{
+    background: #bdbdbd;
+    margin:auto;
+}
+div.post1{
+    background: white;
+    margin: auto;
+    width: 400px;
+}
+span{
+    float:right
+}
